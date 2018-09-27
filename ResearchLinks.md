@@ -26,14 +26,14 @@ Format: [Type of link], [link], [Name of link contributor], [Breif notes on link
 Google Chrome](http://users.encs.concordia.ca/~pcr/paper/Rahman2018EMSE-preproduction.pdf)
 
 # Source Code Location
-* [Chromium build](https://www.chromium.org/developers/how-tos/get-the-code) _Contributed by Roman_
-* [Chromium OS build](https://www.chromium.org/chromium-os/build) _Contributed by Roman_
+* [Chromium build](https://www.chromium.org/developers/how-tos/get-the-code)           _Contributed by Roman_
+* [Chromium OS build](https://www.chromium.org/chromium-os/build)           _Contributed by Roman_
 
 # Discussion Groups
 * [General Chromium discussion group](https://groups.google.com/a/chromium.org/group/chromium-discuss) _Contributed by Roman_
-* [General Chromium OS discussion group](https://groups.google.com/a/chromium.org/group/chromium-os-discuss) _Contributed by Roman_
-* [Chromium Extensions discussion group](https://groups.google.com/a/chromium.org/group/chromium-extensions) _Contributed by Roman_
-* [Chromium App discussion group](https://groups.google.com/a/chromium.org/group/chromium-apps) _Contributed by Roman_
+* [General Chromium OS discussion group](https://groups.google.com/a/chromium.org/group/chromium-os-discuss)           _Contributed by Roman_
+* [Chromium Extensions discussion group](https://groups.google.com/a/chromium.org/group/chromium-extensions)           _Contributed by Roman_
+* [Chromium App discussion group](https://groups.google.com/a/chromium.org/group/chromium-apps)           _Contributed by Roman_
 
 # Tutorials
-* [Chromium OS developer guide](https://chromium.googlesource.com/chromiumos/docs/+/master/developer_guide.md) _Contributed by Roman_
+* [Chromium OS developer guide](https://chromium.googlesource.com/chromiumos/docs/+/master/developer_guide.md)           _Contributed by Roman_
