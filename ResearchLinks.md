@@ -34,3 +34,6 @@ Google Chrome](http://users.encs.concordia.ca/~pcr/paper/Rahman2018EMSE-preprodu
 * [General Chromium OS discussion group](https://groups.google.com/a/chromium.org/group/chromium-os-discuss)
 * [Chromium Extensions discussion group](https://groups.google.com/a/chromium.org/group/chromium-extensions)
 * [Chromium App discussion group](https://groups.google.com/a/chromium.org/group/chromium-apps)
+
+# Tutorials
+* [Chromium OS developer guide](https://chromium.googlesource.com/chromiumos/docs/+/master/developer_guide.md)
