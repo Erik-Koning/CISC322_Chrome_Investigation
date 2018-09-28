@@ -1,6 +1,6 @@
 # CISC322/326_Chrome_Investigation
 
-**[Insert Group Name]**
+**Chrome CastAways**
 Members:
 * Erik Koning
 * Roman Sokolovski
