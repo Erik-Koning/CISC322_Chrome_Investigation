@@ -18,6 +18,7 @@ Format: [Type of link], [link], [Name of link contributor], [Breif notes on link
 
 # Google Chrome System Architecture
 * [Chrome OS and System Architecture](http://sufianalogy.blogspot.com/2012/12/chrome-os-and-system-architecture.html)
+* [Chromium - The web browser chrome is built on](https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code) _Contributed by Erik
 * [Exploring the Relationship between Architecture Coupling and Software Vulnerabilities: A Google Chrome Case](https://www.hbs.edu/faculty/Pages/item.aspx?num=52349)
 * [High Performance Networking in Chrome](https://www.aosabook.org/en/posa/high-performance-networking-in-chrome.html)
 * [Explore the Magic Behind Google Chrome](https://medium.com/@zicodeng/explore-the-magic-behind-google-chrome-c3563dbd2739)
