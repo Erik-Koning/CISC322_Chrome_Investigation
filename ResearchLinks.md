@@ -31,10 +31,10 @@ Google Chrome](http://users.encs.concordia.ca/~pcr/paper/Rahman2018EMSE-preprodu
 * [Chromium OS build](https://www.chromium.org/chromium-os/build)           _Contributed by Roman_
 
 # Discussion Groups
-* [General Chromium discussion group](https://groups.google.com/a/chromium.org/group/chromium-discuss) _Contributed by Roman_
-* [General Chromium OS discussion group](https://groups.google.com/a/chromium.org/group/chromium-os-discuss)           _Contributed by Roman_
-* [Chromium Extensions discussion group](https://groups.google.com/a/chromium.org/group/chromium-extensions)           _Contributed by Roman_
-* [Chromium App discussion group](https://groups.google.com/a/chromium.org/group/chromium-apps)           _Contributed by Roman_
+* [General Chromium discussion group](https://groups.google.com/a/chromium.org/group/chromium-discuss) _Contributed by Roman_  -- General dicussion forum for chromium
+* [General Chromium OS discussion group](https://groups.google.com/a/chromium.org/group/chromium-os-discuss)           _Contributed by Roman_  -- General dicussion forum for chromium
+* [Chromium Extensions discussion group](https://groups.google.com/a/chromium.org/group/chromium-extensions)           _Contributed by Roman_  --Chromium extensions forum
+* [Chromium App discussion group](https://groups.google.com/a/chromium.org/group/chromium-apps)           _Contributed by Roman_  --Chromium app forum
 
 # Tutorials
-* [Chromium OS developer guide](https://chromium.googlesource.com/chromiumos/docs/+/master/developer_guide.md)           _Contributed by Roman_
+* [Chromium OS developer guide](https://chromium.googlesource.com/chromiumos/docs/+/master/developer_guide.md)           _Contributed by Roman_  General Chromium OS developer guide including docs, tools, tips
