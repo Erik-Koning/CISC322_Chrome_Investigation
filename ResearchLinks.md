@@ -1,6 +1,7 @@
 # CISC322/326_Chrome_Investigation
 
-**Chrome CastAways**
+**Chrome Castaways** formerly **Unnamed group 1**
+
 Members:
 * Erik Koning
 * Roman Sokolovski
@@ -17,14 +18,14 @@ understanding its architecture.
 Format: [Type of link], [link], [Name of link contributor], [Breif notes on link]
 
 # Google Chrome System Architecture
-* [Chrome OS and System Architecture](http://sufianalogy.blogspot.com/2012/12/chrome-os-and-system-architecture.html)
-* [Chromium - The web browser chrome is built on](https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code) _Contributed by Erik
-* [Exploring the Relationship between Architecture Coupling and Software Vulnerabilities: A Google Chrome Case](https://www.hbs.edu/faculty/Pages/item.aspx?num=52349)
-* [High Performance Networking in Chrome](https://www.aosabook.org/en/posa/high-performance-networking-in-chrome.html)
-* [Explore the Magic Behind Google Chrome](https://medium.com/@zicodeng/explore-the-magic-behind-google-chrome-c3563dbd2739)
-* [Chrome Apps Architecture](https://developer.chrome.com/apps/app_architecture)
+* [Chrome OS and System Architecture](http://sufianalogy.blogspot.com/2012/12/chrome-os-and-system-architecture.html) _Contributed by Sammy_
+* [Chromium - The web browser chrome is built on](https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code) _Contributed by Erik_
+* [Exploring the Relationship between Architecture Coupling and Software Vulnerabilities: A Google Chrome Case](https://www.hbs.edu/faculty/Pages/item.aspx?num=52349) _Contributed by Sammy_
+* [High Performance Networking in Chrome](https://www.aosabook.org/en/posa/high-performance-networking-in-chrome.html) _Contributed by Sammy_
+* [Explore the Magic Behind Google Chrome](https://medium.com/@zicodeng/explore-the-magic-behind-google-chrome-c3563dbd2739) _Contributed by Sammy_
+* [Chrome Apps Architecture](https://developer.chrome.com/apps/app_architecture) _Contributed by Sammy_
 * [The Modular and Feature Toggle Architectures of
-Google Chrome](http://users.encs.concordia.ca/~pcr/paper/Rahman2018EMSE-preproduction.pdf)
+Google Chrome](http://users.encs.concordia.ca/~pcr/paper/Rahman2018EMSE-preproduction.pdf) _Contributed by Sammy_
 
 # Source Code Location
 * [Chromium build](https://www.chromium.org/developers/how-tos/get-the-code)           _Contributed by Roman_
