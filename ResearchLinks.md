@@ -43,3 +43,6 @@ Google Chrome](http://users.encs.concordia.ca/~pcr/paper/Rahman2018EMSE-preprodu
 
 # Tutorials
 * [Chromium OS developer guide](https://chromium.googlesource.com/chromiumos/docs/+/master/developer_guide.md)           _Contributed by Roman_  --General Chromium OS developer guide including docs, tools, tips
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) _Contributed by Sammy_
+* [Chrome Developer Guide: Develop Extensions](https://developer.chrome.com/extensions/devguide) _Contributed by Sammy_
+
