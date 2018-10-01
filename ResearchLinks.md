@@ -32,7 +32,7 @@ Google Chrome](http://users.encs.concordia.ca/~pcr/paper/Rahman2018EMSE-preprodu
 
 # Discussion Groups
 * [General Chromium discussion group](https://groups.google.com/a/chromium.org/group/chromium-discuss) _Contributed by Roman_  -- General dicussion forum for chromium
-* [General Chromium OS discussion group](https://groups.google.com/a/chromium.org/group/chromium-os-discuss)           _Contributed by Roman_  -- General dicussion forum for chromium
+* [General Chromium OS discussion group](https://groups.google.com/a/chromium.org/group/chromium-os-discuss)           _Contributed by Roman_  -- General dicussion forum for chromium operating system
 * [Chromium Extensions discussion group](https://groups.google.com/a/chromium.org/group/chromium-extensions)           _Contributed by Roman_  --Chromium extensions forum
 * [Chromium App discussion group](https://groups.google.com/a/chromium.org/group/chromium-apps)           _Contributed by Roman_  --Chromium app forum
 
