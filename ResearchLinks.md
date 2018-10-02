@@ -20,6 +20,7 @@ Format: [Type of link], [link], [Name of link contributor], [Breif notes on link
 # Google Chrome System Architecture
 * [Chrome OS and System Architecture](http://sufianalogy.blogspot.com/2012/12/chrome-os-and-system-architecture.html) _Contributed by Sammy_
 * [Chromium - The web browser chrome is built on](https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code) _Contributed by Erik_
+* [Chromiums multi-process architecture VIDEO](https://youtu.be/A0Z0ybTCHKs) Contributed by Erik
 * [Chromium Design Documents](https://www.chromium.org/developers/design-documents) _Contributed by Ryan_
 * [Chromium Multi-Process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture) _Contributed by Ryan_, describes threading model and the renderer process
 * [Chromium Rendering Architecture Diagrams](https://www.chromium.org/developers/design-documents/rendering-architecture-diagrams) _Contributed by Ryan_
