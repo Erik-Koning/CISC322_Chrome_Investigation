@@ -15,8 +15,6 @@ This page will contain links  (e.g., tutorials, documents, books, discussion gro
 studied software system. This webpage should contain sufficient information to help a newcomer to google chrome get up to speed in
 understanding its architecture.
 
-# A1 Presentation
-
 
 Format: [Type of link], [link], [Name of link contributor], [Breif notes on link]
 
