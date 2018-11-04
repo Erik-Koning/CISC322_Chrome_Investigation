@@ -16,7 +16,7 @@ studied software system. This webpage should contain sufficient information to h
 understanding its architecture.
 
 # A1 Presentation
-<iframe src="https://queensuca-my.sharepoint.com/personal/15sr70_queensu_ca/_layouts/15/Doc.aspx?sourcedoc={ef1d56ae-ae50-4271-a7a9-016858ea1f95}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
+
 
 Format: [Type of link], [link], [Name of link contributor], [Breif notes on link]
 
